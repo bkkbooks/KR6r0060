@@ -1,0 +1,790 @@
+canonical_identifier: bkk:krp/KR6r0060/v1
+canonical_location: https://kanripo.org/bkk/KR6r0060/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大宋僧史略
+  identifiers:
+    alt_id:
+    - T54n2126
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2126.xml
+    old_id: T54n2126
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0060_000.yaml, hash: 'sha256:debd94b5c8cda8160debf3d0724a074aed2385e6e82876150d531de97d7d355f'}
+  - {seq: 1, filename: KR6r0060_001.yaml, hash: 'sha256:7956a1080f72f2e0b05faa6e0c7989e66341045bc7bb9d749982eae9247e12ec'}
+  - {seq: 2, filename: KR6r0060_002.yaml, hash: 'sha256:20394e3445ca1d9087826d311fc99d8852f1bea826f64ab1cdf8bfff46f4a1e7'}
+  - {seq: 3, filename: KR6r0060_003.yaml, hash: 'sha256:066a4f22aad6be0f2ecafbd41e2421b74ec7c1276639ebf1a8d0f50a38f6c0c6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0060_000.markers.yaml, hash: 'sha256:29f0f3a02b651d7e588181f0ae32cbd5f626b8616138cc27913481026c818364'}
+  - {seq: 1, role: markers, filename: assets/KR6r0060_001.markers.yaml, hash: 'sha256:f775a25bd78875d45cb87378cfd627f9fbd7115d2b4130438338bcf21a48271a'}
+  - {seq: 2, role: markers, filename: assets/KR6r0060_002.markers.yaml, hash: 'sha256:b793d06ee10cabf3657a83bde907402cc93b980dc1f4236fa974d3b91df4cb94'}
+  - {seq: 3, role: markers, filename: assets/KR6r0060_003.markers.yaml, hash: 'sha256:4069415a37ad847dd1d5b2f6f99cab974cf333ac77aee2d8688e4510f91c9833'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0060_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 僧史略序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0060_T_000-mulu-2
+    span:
+    - front
+    - 308
+    - 308
+  label: 重開僧史略序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0060_T_000-mulu-3
+    span:
+    - front
+    - 1484
+    - 1484
+  label: 大宋僧史略并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7793
+  label: 大宋僧史略卷上咸平二年重更修洛
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-1
+    span:
+    - body
+    - 156
+    - 156
+  label: 1 佛降生年代
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-2
+    span:
+    - body
+    - 1319
+    - 1319
+  label: 2 僧入震旦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-3
+    span:
+    - body
+    - 1559
+    - 1559
+  label: 3 經像東傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-4
+    span:
+    - body
+    - 1800
+    - 1800
+  label: 4 創造伽藍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-5
+    span:
+    - body
+    - 2947
+    - 2947
+  label: 5 譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-6
+    span:
+    - body
+    - 3141
+    - 3141
+  label: 6 譯律
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-7
+    span:
+    - body
+    - 3254
+    - 3254
+  label: 7 譯論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-8
+    span:
+    - body
+    - 3344
+    - 3344
+  label: 8 東夏出家
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-9
+    span:
+    - body
+    - 3422
+    - 3422
+  label: 9 服章法式
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-10
+    span:
+    - body
+    - 4005
+    - 4005
+  label: 10 立壇得戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-11
+    span:
+    - body
+    - 4336
+    - 4336
+  label: 11 尼得戒由
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-12
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 12 受齋懺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-13
+    span:
+    - body
+    - 4751
+    - 4751
+  label: 13 禮儀沿革
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-14
+    span:
+    - body
+    - 5268
+    - 5268
+  label: 14 注經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-15
+    span:
+    - body
+    - 5369
+    - 5369
+  label: 15 僧講
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-16
+    span:
+    - body
+    - 5569
+    - 5569
+  label: 16 尼講
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-17
+    span:
+    - body
+    - 5629
+    - 5629
+  label: 17 造疏科經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-18
+    span:
+    - body
+    - 5751
+    - 5751
+  label: 18 解律
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-19
+    span:
+    - body
+    - 5868
+    - 5868
+  label: 19 解論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-20
+    span:
+    - body
+    - 6087
+    - 6087
+  label: 20 都講
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-21
+    span:
+    - body
+    - 6303
+    - 6303
+  label: 21 傳禪觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-22
+    span:
+    - body
+    - 6635
+    - 6635
+  label: 別立禪居
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-23
+    span:
+    - body
+    - 6871
+    - 6871
+  label: 22 此土僧游西域
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-24
+    span:
+    - body
+    - 7185
+    - 7185
+  label: 23 傳密藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0060_T_001-mulu-25
+    span:
+    - body
+    - 7543
+    - 7543
+  label: 外學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9923
+  label: 大宋僧史略卷中咸平二年重更修理
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-1
+    span:
+    - body
+    - 141
+    - 141
+  label: 24 道俗立制
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-2
+    span:
+    - body
+    - 704
+    - 704
+  label: 25 行香唱導
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-3
+    span:
+    - body
+    - 1723
+    - 1723
+  label: 26 讚唄之由
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-4
+    span:
+    - body
+    - 2077
+    - 2077
+  label: 27 僧寺綱紏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-5
+    span:
+    - body
+    - 2357
+    - 2357
+  label: 28 立僧正
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-6
+    span:
+    - body
+    - 2826
+    - 2826
+  label: 尼正附
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-7
+    span:
+    - body
+    - 2897
+    - 2897
+  label: 29 僧統
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-8
+    span:
+    - body
+    - 3310
+    - 3310
+  label: 30 沙門都統
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-9
+    span:
+    - body
+    - 3715
+    - 3715
+  label: 31 左右街僧錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-10
+    span:
+    - body
+    - 4437
+    - 4437
+  label: 32 僧主副員
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-11
+    span:
+    - body
+    - 4835
+    - 4835
+  label: 33 講經論首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-12
+    span:
+    - body
+    - 5022
+    - 5022
+  label: 34 國師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-13
+    span:
+    - body
+    - 5319
+    - 5319
+  label: 35 雜任職員
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-14
+    span:
+    - body
+    - 5978
+    - 5978
+  label: 36 僧主秩俸
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-15
+    span:
+    - body
+    - 6302
+    - 6302
+  label: 尼附
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-16
+    span:
+    - body
+    - 6362
+    - 6362
+  label: 37 管屬僧尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-17
+    span:
+    - body
+    - 7359
+    - 7359
+  label: 祠部牒附
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-18
+    span:
+    - body
+    - 7683
+    - 7683
+  label: 38 僧道班位
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-19
+    span:
+    - body
+    - 8993
+    - 8993
+  label: 39 內道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-20
+    span:
+    - body
+    - 9590
+    - 9590
+  label: 生日道場附
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0060_T_002-mulu-21
+    span:
+    - body
+    - 9682
+    - 9682
+  label: 40 僧籍弛張
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 13216
+  label: 大宋僧史略卷下咸平二年重更修理
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-1
+    span:
+    - body
+    - 150
+    - 150
+  label: 41 誕辰談論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-2
+    span:
+    - body
+    - 515
+    - 515
+  label: 內齋附
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-3
+    span:
+    - body
+    - 725
+    - 725
+  label: 42 賜僧紫衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-4
+    span:
+    - body
+    - 1689
+    - 1689
+  label: 43 賜師號
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-5
+    span:
+    - body
+    - 2131
+    - 2131
+  label: 德號附
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-6
+    span:
+    - body
+    - 2689
+    - 2689
+  label: 44 內供奉并引駕
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-7
+    span:
+    - body
+    - 2963
+    - 2963
+  label: 45 封授官秩
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-8
+    span:
+    - body
+    - 3418
+    - 3418
+  label: 46 方等戒壇
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-9
+    span:
+    - body
+    - 3847
+    - 3847
+  label: 47 結社法集
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-10
+    span:
+    - body
+    - 4102
+    - 4102
+  label: 48 賜夏臘
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-11
+    span:
+    - body
+    - 4402
+    - 4402
+  label: 49 對王者稱謂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-12
+    span:
+    - body
+    - 5681
+    - 5681
+  label: 50 臨壇法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-13
+    span:
+    - body
+    - 6171
+    - 6171
+  label: 51 度僧規利
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-14
+    span:
+    - body
+    - 6384
+    - 6384
+  label: 52 賜諡號
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-15
+    span:
+    - body
+    - 6654
+    - 6654
+  label: 53 菩薩僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-16
+    span:
+    - body
+    - 7125
+    - 7125
+  label: 54 得道證果
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-17
+    span:
+    - body
+    - 7508
+    - 7508
+  label: 尼附
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-18
+    span:
+    - body
+    - 7625
+    - 7625
+  label: 55 大秦末尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-19
+    span:
+    - body
+    - 8118
+    - 8118
+  label: 56 駕頭床子
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-20
+    span:
+    - body
+    - 8607
+    - 8607
+  label: 57 城闍天王
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-21
+    span:
+    - body
+    - 8999
+    - 8999
+  label: 58 上元放燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-22
+    span:
+    - body
+    - 9405
+    - 9405
+  label: 59 總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0060_T_003-mulu-23
+    span:
+    - body
+    - 10358
+    - 10358
+  label: 紹興朝旨改正僧道班文字一集
+  type: mulu
+  level: 1
+hash: sha256:d82bf5b02930f0193f91833adbcc530ea4765cb130c0d67595b32d469860a56d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
