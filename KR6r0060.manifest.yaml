@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0060/v1
 canonical_location: https://kanripo.org/bkk/KR6r0060/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大宋僧史略
   identifiers:
@@ -24,15 +24,15 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0060_000.yaml, hash: 'sha256:005287a873be43e7902b49828f93c62d091b3416251b7316b70440e13d3771d4'}
-  - {seq: 1, filename: KR6r0060_001.yaml, hash: 'sha256:df90ab12a23ecba3f4cb657e5fc0a3de35caa64363779df6f7c806db9d6656e8'}
-  - {seq: 2, filename: KR6r0060_002.yaml, hash: 'sha256:bb814c9cc0c38303896df08c53f870f0c35daf3dad7ae41c270ecb201f224d7d'}
-  - {seq: 3, filename: KR6r0060_003.yaml, hash: 'sha256:e446cd0aec29fe84d645ea8a628a94cbf748e0b0fea1d0e95691e2bfebfb7544'}
+  - {seq: 0, filename: KR6r0060_000.yaml, hash: 'sha256:ce4fa21936f754e7400987df19a8b461dc1b5e906483c42495df4c6954b0c85f'}
+  - {seq: 1, filename: KR6r0060_001.yaml, hash: 'sha256:8004db1bf2c3cf8b781f81f2f637d7db5d29c9515b7c8731b9073c013407d112'}
+  - {seq: 2, filename: KR6r0060_002.yaml, hash: 'sha256:04b824c810dcd04eb4eb35c4db444d1a10f664baad7fe443d237bd67a21b472f'}
+  - {seq: 3, filename: KR6r0060_003.yaml, hash: 'sha256:78cfaf2d1a68edde23f77da6e8be0cd8a63fbb9ddcf86e3f03ac2d3537da7ae1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0060_000.markers.yaml, hash: 'sha256:7b33601f1eefcfae25e7747a54846b81b0184e5e9a162e5c71dcae3302d25916'}
-  - {seq: 1, role: markers, filename: assets/KR6r0060_001.markers.yaml, hash: 'sha256:2d31cdf89034b781036107261adb1c2045948d63ff34358b209a3d6e99c4a2b9'}
-  - {seq: 2, role: markers, filename: assets/KR6r0060_002.markers.yaml, hash: 'sha256:63a918617b930851aa018eecbb34f1b75fd5a44e59ff6dfe3bcbd4a19ca7b2d6'}
-  - {seq: 3, role: markers, filename: assets/KR6r0060_003.markers.yaml, hash: 'sha256:b0b54e7c5f16c171b958d0b1d209b71237d263d3b8494c94b2d807d17871d9b0'}
+  - {seq: 0, role: markers, filename: assets/KR6r0060_000.markers.yaml, hash: 'sha256:ca0a6090e351defc28e0e904bedeb9c3a83cef7a49caf5b3b1e6d61b511ae9cd'}
+  - {seq: 1, role: markers, filename: assets/KR6r0060_001.markers.yaml, hash: 'sha256:6fc092f9c86c10bf3c97115416c1efb707c987dcaf7c6fd48440a9e89c2518e8'}
+  - {seq: 2, role: markers, filename: assets/KR6r0060_002.markers.yaml, hash: 'sha256:7b818f58f14a3c42673fbfec6432e685eb8666aa8a7a7f5e4c969a84a52332d0'}
+  - {seq: 3, role: markers, filename: assets/KR6r0060_003.markers.yaml, hash: 'sha256:41f4174b20890d8523f19a8aaf645337e63fc2e6c476864f4294291019031aec'}
 table_of_contents:
 - ref:
     seq: 0
@@ -784,4 +784,7 @@ table_of_contents:
   label: 紹興朝旨改正僧道班文字一集
   type: mulu
   level: 1
-hash: sha256:9c251b0eb47fe86e794da4009b4f5177333d44cb30e8fc36324ecb870cf6b3d9
+hash: sha256:15b3d78248c5f492939f7cc23474082dc3c876bd934d82b312ca466ad7218438
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
