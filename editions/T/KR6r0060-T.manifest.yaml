@@ -19,12 +19,12 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0060_000-T.yaml, hash: 'sha256:005287a873be43e7902b49828f93c62d091b3416251b7316b70440e13d3771d4'}
+  - {seq: 0, filename: KR6r0060_000-T.yaml, hash: 'sha256:0d74675540d375132da2693cd0a42f3b49a3f549d27b02e2e3bf44da99ff2154'}
   - {seq: 1, filename: KR6r0060_001-T.yaml, hash: 'sha256:df90ab12a23ecba3f4cb657e5fc0a3de35caa64363779df6f7c806db9d6656e8'}
   - {seq: 2, filename: KR6r0060_002-T.yaml, hash: 'sha256:bb814c9cc0c38303896df08c53f870f0c35daf3dad7ae41c270ecb201f224d7d'}
   - {seq: 3, filename: KR6r0060_003-T.yaml, hash: 'sha256:e446cd0aec29fe84d645ea8a628a94cbf748e0b0fea1d0e95691e2bfebfb7544'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0060_000-T.markers.yaml, hash: 'sha256:acb31dd6c712ad4e3a7264e7865a83828830ab48e1a5ce40bb2ad15cd1025b90'}
+  - {seq: 0, role: markers, filename: assets/KR6r0060_000-T.markers.yaml, hash: 'sha256:2edf5d49d90053ceeaa2681a9aa999a4371129ef2e2994d64eaef43e06f1d1f9'}
   - {seq: 1, role: markers, filename: assets/KR6r0060_001-T.markers.yaml, hash: 'sha256:902e1916608523bdfa3b8e9994b0c88859ce0fb808ecd2c316730e90fe4e623a'}
   - {seq: 2, role: markers, filename: assets/KR6r0060_002-T.markers.yaml, hash: 'sha256:4c9bc2e9e5f5bcdb793f946c7b831f1326eee47b5514c6826c58f61b5615ed8b'}
   - {seq: 3, role: markers, filename: assets/KR6r0060_003-T.markers.yaml, hash: 'sha256:fa355315176d68aa9e56cd4293ea802dc2cfffd714a4e2b50dc35920cade27f7'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0060_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 僧史略序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0060_T_000-mulu-2
     span:
-    - front
+    - body
     - 308
     - 308
   label: 重開僧史略序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0060_T_000-mulu-3
     span:
-    - front
+    - body
     - 1484
     - 1484
   label: 大宋僧史略并序
@@ -779,4 +779,4 @@ table_of_contents:
   label: 紹興朝旨改正僧道班文字一集
   type: mulu
   level: 1
-hash: sha256:d7578bbd3f18760116ff016e81b04de2ced72a2e23aa03e01f34eeded340f48f
+hash: sha256:4af8657c7613218e254ba740c4971b26b2ded0f6e8e358b5c22814bf1461956e
